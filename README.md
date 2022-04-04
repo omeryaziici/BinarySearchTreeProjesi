@@ -7,7 +7,7 @@ Başlangıç seviye java ile backend web development patikası -> Veri yapılar�
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 # Cevap: Proje 3
-Root->7
+Root=7-->>
 Root'un sağında 5 bulunur. Root'un solunda 8 bulunur.
 5'in sağında 1 bulunur. 5'in solunda 6 bulunur.
 8'in solunda 9 bulunur.
